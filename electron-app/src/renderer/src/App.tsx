@@ -1,10 +1,9 @@
 import './assets/main.css'
-import { Routes } from './Routes'
+import './Rotas'
+import Rotas from './Rotas'
 
-function App(): React.JSX.Element {
-  return (
-    <Routes/>
+export default function App(){
+  return(
+    <Rotas />
   )
 }
-
-export default App
