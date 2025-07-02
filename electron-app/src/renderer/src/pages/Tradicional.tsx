@@ -1,7 +1,7 @@
 export function Tradicional(){
     return(
-        <div>
-            <h1>ambiente poouse tradicional</h1>
-        </div>
+       <div>
+        <h1>pagina de poouse</h1>
+       </div> 
     )
 }

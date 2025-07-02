@@ -5,5 +5,6 @@ export function Menu(){
       <h1 className="text-amber-200">pagina de menuuuu</h1>
       <Com_menu />
     </div>
+    
   )
 }
