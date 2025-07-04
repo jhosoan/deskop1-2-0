@@ -1,7 +1,8 @@
+import { Com_Tradicio } from "@renderer/components/Com_Tradicio"
 export function Tradicional(){
     return(
        <div>
-        <h1>pagina de poouse</h1>
+            <Com_Tradicio  />
        </div> 
     )
 }
