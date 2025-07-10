@@ -14,6 +14,19 @@ export function Com_Tradicio(){
           </div>
           
         </header>
+        <div className="bg-blue-900 h-15 border-6 border-white ">
+            <h1>box 2</h1>
+        </div>
+        <div className="bg-blue-900 h-90">
+          <h1>bom 3</h1>
+        </div>
+         <Link className="duration-300 ease-in ... text-blue-500 m-5" to="/">voltar</Link>
+        <div className="bg-red-700 h-100">
+          <h1>box central</h1>
+          <div className="truncate bg-white w-17 h-12 ">
+            <h1>00:00</h1>
+          </div>
+        </div>
 
           <Link className="duration-300 ease-in ... text-blue-500 m-5" to="/">voltar</Link>
         </div>
