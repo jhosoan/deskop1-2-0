@@ -21,11 +21,32 @@ export function Com_Tradicio(){
           <h1>bom 3</h1>
         </div>
          <Link className="duration-300 ease-in ... text-blue-500 m-5" to="/">voltar</Link>
+
+
+         
         <div className="bg-red-700 h-100">
-          <h1>box central</h1>
-          <div className="truncate bg-white w-17 h-12 ">
+          <div className="flex flex-wrap-reverse">
+            <div>
+              <div className="truncate bg-white w-100 h-12 ">
             <h1>00:00</h1>
           </div>
+             <div>
+                   <button className="m-10">START</button>
+                   <button className="m-10" >STOP</button>
+                   <button className="m-10">RESET</button>
+          </div>
+            </div>
+            <div>               
+            </div>
+            <div>
+               <div>
+                <h1>POOMSAE 1</h1>
+               </div>
+               <div>
+                <h1>POOMSAE 2</h1>
+               </div>
+            </div>
+          </div>          
         </div>
 
           <Link className="duration-300 ease-in ... text-blue-500 m-5" to="/">voltar</Link>
